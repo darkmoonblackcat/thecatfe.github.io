@@ -1,0 +1,13 @@
+.cat {
+    width: 100%;
+    margin: 0%;
+}
+
+html {
+    text-align: center;
+    background-color: rgb(100,00,10);
+    font-family: Palatino;
+    color: rgb(250,250,250);
+    /*background-image: url("https://orig00.deviantart.net/746a/f/2013/286/f/d/autumn_cat____animated___by_hetorakelt-d6qbeuu.jpg");
+*/
+}
